@@ -5,7 +5,7 @@ A Responsive Web Chat App Using Php , MySql and JavaScript
 - XAMPP [Php Runtime Environment]
      - click [HERE](https://www.apachefriends.org/index.html) To Download XAMPP
 
-##setup
+## setup
 - install the xampp and go to the xampp folder and go to "C:\xampp\htdocs\" and make a new folder and paste this code
 - after that launch xampp and start the MySql and Apache service 
 - go to your [localhost](https://localhost) and go the the php admin page
